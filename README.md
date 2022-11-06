@@ -4,7 +4,7 @@ you can use your mobile phone or PC to take a photo, then the photo will send to
 go to the [google driver](https://drive.google.com/drive/folders/1J2g8viWP9A3dokd7MuZAFtRqJ1JCA67y?usp=sharing) to install the models and move it to the file path `scanner/backend/`
 ## Backend
 `$ cd backend`  
-`$ pip install -r requirement.txt`  
+`$ pip install -r requirements.txt`  
 `$ python app.py` (change the host based on your address)
 
 ## Frontend
